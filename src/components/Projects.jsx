@@ -10,32 +10,31 @@ const projects = [
   },
 
   {
-    title: "Travel Management System",
+    title: "Placement Beacon",
     description:
-      "Tour booking platform with package management, user registration, booking workflow, and admin features.",
-    tech: ["Spring Boot", "MySQL", "HTML", "CSS"],
-    github: "#",
+      "Developed a full-stack web application for managing placement drives, student registrations, and company interactions with a user-friendly interface.",
+    tech: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
+    github: "https://github.com/devi576/Placement-Beacon",
     demo: "#",
-    image:
-      "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1200",
+    image:"https://media.licdn.com/dms/image/v2/D4D12AQHi3drj6anjfQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1658853778185?e=2147483647&v=beta&t=2sjYSO5zcPiVHe5sNKk8BBu4O2F1PSwHT81JbCGhRXI",
   },
 
   {
-    title: "Employee Management System",
+    title: "Explailiver+ - Liver Disease Prediction System",
     description:
-      "Enterprise CRUD application for managing employee records, departments, attendance, and payroll using Spring Boot and REST APIs.",
+      "A web application that predicts liver disease based on user input and provides explanations for the predictions using machine learning models.",
     tech: [
-      "Java",
-      "Spring Boot",
-      "JPA",
-      "Hibernate",
-      "MySQL",
-      "REST API",
+      "Python",
+      "Flask",
+      "Scikit-learn",
+      "CatBoost",
+      "LightGBM",
+      "XGBoost",
     ],
     github: "#",
-    demo: "#",
+    demo: "https://liver1-aaon.vercel.app/",
     image:
-      "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200",
+      "https://thumbs.dreamstime.com/b/healthtech-medical-diagnostics-biotech-innovation-glowing-low-poly-liver-above-circuit-board-lines-blue-neon-vector-427357562.jpg",
   },
 ];
 
